@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Saudi Adel
 
-<!--
-**soodyaboalkher-debug/soodyaboalkher-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React.js | JavaScript
 
-Here are some ideas to get you started:
+I'm a Frontend Developer focused on building clean, responsive, and user-friendly web applications with modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* React Router
+* Tailwind CSS
+* Git & GitHub
+* Vite
+
+### 🚀 Projects
+
+#### 💊 Pharma Store
+
+A pharmacy e-commerce frontend built with React.js, featuring product browsing, search, filtering, shopping cart, wishlist, checkout, and order management.
+
+#### 🛒 React E-Commerce Store
+
+An e-commerce frontend project built with React.js to practice building reusable components, managing application state, and creating a complete shopping experience.
+
+### 📚 Currently Learning
+
+* Advanced React.js
+* Frontend Development
+* Building real-world web applications
+* Improving my Git & GitHub workflow
+
+### 📫 Contact
+
+I'm open to learning opportunities, collaborations, and frontend development projects.
+
+---
+
+⭐ Thanks for visiting my profile!
