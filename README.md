@@ -1,40 +1,65 @@
 # 👋 Hi, I'm Saudi Adel
 
-### Frontend Developer | React.js | JavaScript
+### Junior Frontend Developer | React.js | JavaScript | Supabase
 
-I'm a Frontend Developer focused on building clean, responsive, and user-friendly web applications with modern web technologies.
+I'm a self-taught developer passionate about building modern, responsive web applications.
 
-### 🛠️ Technologies & Tools
+I enjoy turning ideas into functional applications and working with frontend technologies, databases, and backend services.
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* React Router
-* Tailwind CSS
-* Git & GitHub
-* Vite
+### 🛠️ Technical Skills
 
-### 🚀 Projects
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- React Router
+- Tailwind CSS
 
-#### 💊 Pharma Store
+**Backend & Database**
+- Supabase
+- PostgreSQL
+- SQL
+- Supabase Authentication
+- Row Level Security (RLS)
 
-A pharmacy e-commerce frontend built with React.js, featuring product browsing, search, filtering, shopping cart, wishlist, checkout, and order management.
+**Tools**
+- Git & GitHub
+- Vite
+- Vercel
 
-#### 🛒 React E-Commerce Store
+### 🚀 Featured Project
 
-An e-commerce frontend project built with React.js to practice building reusable components, managing application state, and creating a complete shopping experience.
+#### 🛍️ SAUDI – Full-Stack E-commerce Store
 
-### 📚 Currently Learning
+A full-stack e-commerce application built with React.js, Tailwind CSS, and Supabase.
 
-* Advanced React.js
-* Frontend Development
-* Building real-world web applications
-* Improving my Git & GitHub workflow
+**Key Features:**
+- User authentication and account management
+- Product browsing, search, and category filtering
+- Shopping cart and wishlist
+- Product variants and size selection
+- Checkout and order creation
+- Order tracking
+- Database security using Row Level Security (RLS)
+
+**Links:**
+- [Live Demo](https://saudi-store-tau.vercel.app/)
+- [Source Code](https://github.com/soodyaboalkher-debug/saudi-store)
+
+### 📚 Currently Improving
+
+- Advanced React.js concepts
+- JavaScript fundamentals
+- PostgreSQL and SQL
+- Supabase database security
+- Full-Stack application development
 
 ### 📫 Contact
 
-I'm open to learning opportunities, collaborations, and frontend development projects.
+- Email: soudyaboalkher@gmail.com
+- Location: Sohag, Egypt
+- Open to Remote Opportunities
 
 ---
 
